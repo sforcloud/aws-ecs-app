@@ -1,7 +1,5 @@
 FROM python:3.5-slim
 
-MAINTAINER fernando@linuxacademy.com
-
 USER root
 
 WORKDIR /app
